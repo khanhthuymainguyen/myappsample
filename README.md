@@ -1,0 +1,1 @@
+This is my sample app created to work with Git and Github 
